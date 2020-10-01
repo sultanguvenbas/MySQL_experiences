@@ -1,0 +1,1 @@
+CREATE INDEX wind_direction_index ON Weather(Side);
